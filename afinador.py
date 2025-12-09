@@ -216,7 +216,7 @@ def processar_audio(filepath, freq_ideal, nome):
 # ===========================================================
 # ARQUIVOS
 # ===========================================================
-# cicionário contendo o nome da nota, o arquivo correspondente
+# dicionário contendo o nome da nota, o arquivo correspondente
 # e a frequência ideal usada para cálculo do erro
 
 notas = {
